@@ -1,0 +1,5 @@
+{
+  "name": "Cozinha Mágica",
+  "description": "An AI-powered recipe application that allows users to generate, rewrite, and organize recipes. All data is saved locally on the user's device, requiring no login or account.",
+  "requestFramePermissions": []
+}
